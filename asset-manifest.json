@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/brainweb/static/css/main.aecd81a9.chunk.css",
+    "main.js": "/brainweb/static/js/main.1fb8f111.chunk.js",
+    "main.js.map": "/brainweb/static/js/main.1fb8f111.chunk.js.map",
+    "runtime-main.js": "/brainweb/static/js/runtime-main.c5806170.js",
+    "runtime-main.js.map": "/brainweb/static/js/runtime-main.c5806170.js.map",
+    "static/js/2.a0f9ce5f.chunk.js": "/brainweb/static/js/2.a0f9ce5f.chunk.js",
+    "static/js/2.a0f9ce5f.chunk.js.map": "/brainweb/static/js/2.a0f9ce5f.chunk.js.map",
+    "index.html": "/brainweb/index.html",
+    "precache-manifest.6b35fd3c8a951f4fb5f451a52b57c183.js": "/brainweb/precache-manifest.6b35fd3c8a951f4fb5f451a52b57c183.js",
+    "service-worker.js": "/brainweb/service-worker.js",
+    "static/css/main.aecd81a9.chunk.css.map": "/brainweb/static/css/main.aecd81a9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5806170.js",
+    "static/js/2.a0f9ce5f.chunk.js",
+    "static/css/main.aecd81a9.chunk.css",
+    "static/js/main.1fb8f111.chunk.js"
+  ]
+}
