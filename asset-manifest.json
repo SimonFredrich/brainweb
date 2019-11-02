@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/brainweb/static/css/main.40e8655a.chunk.css",
-    "main.js": "/brainweb/static/js/main.5ccbac9a.chunk.js",
-    "main.js.map": "/brainweb/static/js/main.5ccbac9a.chunk.js.map",
+    "main.js": "/brainweb/static/js/main.3468b527.chunk.js",
+    "main.js.map": "/brainweb/static/js/main.3468b527.chunk.js.map",
     "runtime-main.js": "/brainweb/static/js/runtime-main.c5806170.js",
     "runtime-main.js.map": "/brainweb/static/js/runtime-main.c5806170.js.map",
-    "static/js/2.a0f9ce5f.chunk.js": "/brainweb/static/js/2.a0f9ce5f.chunk.js",
-    "static/js/2.a0f9ce5f.chunk.js.map": "/brainweb/static/js/2.a0f9ce5f.chunk.js.map",
+    "static/js/2.1820a281.chunk.js": "/brainweb/static/js/2.1820a281.chunk.js",
+    "static/js/2.1820a281.chunk.js.map": "/brainweb/static/js/2.1820a281.chunk.js.map",
     "index.html": "/brainweb/index.html",
-    "precache-manifest.660ddc9d038c89052ec69c8187429f9c.js": "/brainweb/precache-manifest.660ddc9d038c89052ec69c8187429f9c.js",
+    "precache-manifest.f058b22006e51b47b736660fb6c7263e.js": "/brainweb/precache-manifest.f058b22006e51b47b736660fb6c7263e.js",
     "service-worker.js": "/brainweb/service-worker.js",
     "static/css/main.40e8655a.chunk.css.map": "/brainweb/static/css/main.40e8655a.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.c5806170.js",
-    "static/js/2.a0f9ce5f.chunk.js",
+    "static/js/2.1820a281.chunk.js",
     "static/css/main.40e8655a.chunk.css",
-    "static/js/main.5ccbac9a.chunk.js"
+    "static/js/main.3468b527.chunk.js"
   ]
 }
