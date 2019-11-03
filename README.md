@@ -1,6 +1,6 @@
 # brainweb
 
-visit at: [simonfredrich.github.io/brainweb](simonfredrich.github.io/brainweb)
+visit at: [brainweb](https://simonfredrich.github.io/brainweb/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
