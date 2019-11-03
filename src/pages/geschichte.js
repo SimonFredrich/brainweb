@@ -7,29 +7,31 @@ import {
 } from 'react-router-dom';
 import Topic from '../components/Topic';
 import Paragraph from '../components/paragraph';
+import geschichteData from '../database/geschichteData';
+
+function paragraphs({ match }) {
+}
 
 class Geschichte extends React.Component {
     render() {
         return(
             <Router>
                 <div>
-                    <h1>
-                        <Link to='/geschichte/attische-demokratie'>Attische Demokratie</Link>
-                        <Link to='/geschichte/thema2'>Thema 2</Link>
-                    </h1>
+                    <ol>
+                        {geschichteData.map(({ name, id }) => (
+                            <li key={id}>
+                                <Link to={`/geschichte/${id}`}>{name}</Link>
+                            </li>
+                        ))}
+                    </ol>
                     <Switch>
-                        <Route path='/geschichte/attische-demokratie'>
-                            <Topic heading='Attische Demokratie'>
-                                <Paragraph content='paragraph1'/>
-                                <Paragraph content='paragraph2'/>
-                            </Topic>
-                        </Route>
-                        <Route path='/geschichte/thema2'>
-                            <Topic heading='Thema 2'>
-                                <Paragraph content='paragraph1'/>
-                                <Paragraph content='paragraph2'/>
-                            </Topic>
-                        </Route>
+                        {geschichteData.map(({ name, id, description }) => (
+                            <Route exact path={`/geschichte/${id}`}>
+                                <Topic heading={name}>
+                                    <Paragraph content={description}/>
+                                </Topic>
+                            </Route>
+                        ))}
                     </Switch>
                 </div>
             </Router>

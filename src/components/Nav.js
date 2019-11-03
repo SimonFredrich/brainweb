@@ -27,7 +27,7 @@ class Nav extends React.Component {
                         <Route path='/geschichte'>
                             <Geschichte/>
                         </Route>
-                        <Route path='/'>
+                        <Route exact path='/'>
                             <Home/>
                         </Route>
                     </Switch>
