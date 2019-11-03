@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f2365f060c261f0c38de1b5aff6441d",
+    "revision": "7dd2caf140f6491438a7fd5968ab39f6",
     "url": "/brainweb/index.html"
   },
   {
-    "revision": "1fc16835580003a43727",
+    "revision": "01209303c81408f3ce57",
     "url": "/brainweb/static/css/main.40e8655a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brainweb/static/js/2.d3ce72cb.chunk.js"
   },
   {
-    "revision": "1fc16835580003a43727",
-    "url": "/brainweb/static/js/main.4415fa63.chunk.js"
+    "revision": "01209303c81408f3ce57",
+    "url": "/brainweb/static/js/main.e6865443.chunk.js"
   },
   {
     "revision": "5f3d5f4c342e25cb504a",
